@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.header.py-4 {
+  background: #cc1923;
+}
+.header .text-default {
+  color: #fff!important;
+}
+.header .d-flex .text-muted {
+  color: #e0e0e0 !important;
+}
+.header .d-flex .nav-link {
+  color: #e0e0e0!important;
+}
+
+.nav-tabs .nav-link.active {
+  border-color: #cc1923!important;
+}
+.nav-tabs .nav-link.active {
+  border-color: #cc1923!important;
+  color: #cc1923!important;
+}
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #cc1923!important;
+}
+.social-links {
+  display: none;
+}
